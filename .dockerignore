@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+.vscode
+README.md
+README.upstream.md
+*.tar.gz
+*.orig
+docker-compose.yml
